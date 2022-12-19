@@ -8,4 +8,8 @@ public class ExampleTest {
     void exampleTest() {
         Assertions.assertTrue(2>1);
     }
+} @Test
+    void exampleTest2() {
+        Assertions.assertTrue(2>3);
+    }
 }
